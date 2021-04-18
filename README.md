@@ -14,3 +14,7 @@ The back-end is built into this demo using google's firestore database and built
 additional stacks :
 $ npm install email-validator
 $ npm install react-firebase-hooks
+
+## Demo
+
+Deploy on vercel : https://whatsapp2-demo.vercel.app/
