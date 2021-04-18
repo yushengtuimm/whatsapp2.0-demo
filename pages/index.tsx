@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import Sidebar from "../components/Sidebar";
 
 export default function Home() {
   return (
@@ -7,6 +8,8 @@ export default function Home() {
       <Head>
         <title>Whatsapp 2.0</title>
       </Head>
+
+      <Sidebar />
     </div>
   );
 }
