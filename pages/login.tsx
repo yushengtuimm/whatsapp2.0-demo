@@ -27,6 +27,9 @@ function login() {
         // The firebase.auth.AuthCredential type that was used.
         var credential = error.credential;
         // ...
+
+        console.log(errorCode);
+        console.log(errorMessage);
       });
   };
 
