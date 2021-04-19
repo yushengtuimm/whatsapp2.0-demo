@@ -18,3 +18,4 @@ $ npm install react-firebase-hooks
 ## Demo
 
 Deploy on vercel : https://whatsapp2-demo.vercel.app/
+this demo is publish on free quota with firebase database and auth, which may result in slowing down during data loading when limit reach.
